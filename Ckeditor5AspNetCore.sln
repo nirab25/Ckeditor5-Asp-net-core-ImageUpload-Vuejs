@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ckeditor5AspNetCore", "Ckeditor5AspNetCore\Ckeditor5AspNetCore.csproj", "{4DF673D8-C9BD-4DA6-B949-58EDC1E47830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF673D8-C9BD-4DA6-B949-58EDC1E47830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF673D8-C9BD-4DA6-B949-58EDC1E47830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF673D8-C9BD-4DA6-B949-58EDC1E47830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF673D8-C9BD-4DA6-B949-58EDC1E47830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {120B43B0-8D9A-47B9-BCB9-2F1BCD5DB384}
+	EndGlobalSection
+EndGlobal
